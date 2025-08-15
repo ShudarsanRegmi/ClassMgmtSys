@@ -1,7 +1,13 @@
 # 📚 Class Management System
 
-![image](https://github.com/user-attachments/assets/a956b1fd-943d-4a4d-aac2-1d6a5c002a95)
 ![image](https://github.com/user-attachments/assets/1e490cd3-e330-49cd-9bb5-0db848f63861)
+![image](https://github.com/user-attachments/assets/a956b1fd-943d-4a4d-aac2-1d6a5c002a95)
+<img width="1350" height="764" alt="homepage" src="https://github.com/user-attachments/assets/430404ef-2142-488e-80bd-5ae2901cf6a3" />
+<img width="1366" height="633" alt="courseassignment" src="https://github.com/user-attachments/assets/4f4dd9b5-991d-4584-a8dc-26b368000a2c" />
+<img width="1352" height="768" alt="courseMgmtDashboard" src="https://github.com/user-attachments/assets/16029f31-5a7a-42b4-9fad-8a963a23eb1b" />
+<img width="1352" height="768" alt="timeline" src="https://github.com/user-attachments/assets/3a260e80-e158-421c-a69b-c49fabc0dbc2" />
+<img width="1332" height="763" alt="timetable" src="https://github.com/user-attachments/assets/212133cd-07d6-4a82-8309-070390ab2a29" />
+
 ![image](https://github.com/user-attachments/assets/5559f55f-ba3f-4936-8879-fc40fda36c4d)
 
 
